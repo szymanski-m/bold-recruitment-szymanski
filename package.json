@@ -1,0 +1,14 @@
+{
+  "name": "bold-recruitment-task",
+  "version": "1.0.0",
+  "description": "",
+  "scripts": {
+    "test": "npx cypress run",
+    "test-open": "npx cypress open"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/szymanski-m/bold-recruitment-szymanski.git"
+  },
+  "author": "Michal Szymanski"
+}
